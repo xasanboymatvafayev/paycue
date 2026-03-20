@@ -1,0 +1,6 @@
+db.sqlite3
+sessions/*
+tmp/
+.env
+bin/*
+logs/*
